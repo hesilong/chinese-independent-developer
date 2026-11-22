@@ -2,6 +2,11 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 11 月 22 号添加
+
+#### MapSmith 
+* :white_check_mark: [GTA 6 Cheat Codes — Search, Filter & Copy](https://mapsmith.fun/)：免费GTA 6的作弊码查询，检索已公布的 19 个"GTA 6"作弊码输入指令，筛选 PS5 或 Xbox 平台，逐一核对解锁挑战，并复制一段方向键（D-pad）操作序列,无需注册
+* 
 ### 2026 年 11 月 21 号添加
 
 #### jnmbys - [GitHub](https://github.com/jnmbys)
